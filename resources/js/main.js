@@ -85,10 +85,7 @@ const
    *        { nombre, descripcion }
    *    ]
    */
-  lista = [
-      { nombre: 'Ir al super', descripcion: 'Comparar tomates' },
-      { nombre: 'Terminar main.js', descripcion: 'Se esta poniendo heavy' }
-  ],
+  lista = [],
   /**
    * Este objeto vmLista actua como nexo que comunica
    * la fuente de datos (variable lista) con el elemento
